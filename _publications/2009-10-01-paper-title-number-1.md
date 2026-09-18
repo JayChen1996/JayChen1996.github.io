@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "Multi-Scale K-Cosine Curvature Fusion With Nonlinear Measure for Robust Corner Detection"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
